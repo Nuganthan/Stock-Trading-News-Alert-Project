@@ -1,10 +1,11 @@
-Stock API
+1.Stock API
 
 Claim your own Stock API key in this link: https://www.alphavantage.co/support/#support
 
 For Stock api Documentation Refer: https://www.alphavantage.co/documentation/
 
-Twilio Account
+
+2.Twilio Account
 
 To create a Twilio account follow the link: https://www.twilio.com/
 
@@ -14,7 +15,8 @@ Get a Twilio SID, Twilio Auth token, Twilio Phone Number
 
 for documentation refer: https://www.twilio.com/docs/messaging/quickstart/python
 
-News API
+
+3.News API
 
 Get Your API key using this link: https://newsapi.org/account
 
